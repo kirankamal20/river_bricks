@@ -28,4 +28,5 @@ vars:
   project_name:
     type: string
     description: Your project name
-    prompt: What is your prjoect name?
+    prompt: What is your project name?
+
